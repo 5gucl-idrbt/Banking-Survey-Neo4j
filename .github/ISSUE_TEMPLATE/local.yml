@@ -8,13 +8,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        # Survey for Local Language Repository
-        # ------------------------------------
+        # SURVEY FOR BANKING
+        # ------------------
+        # Consent Based Survey
+        # Consent 
         Be assured that your information is treated with the utmost security and is exclusively 
         utilized for academic, research, and educational purposes. In the context of surveys related to banking, 
         the data collected is strictly for public surveys geared towards enhancing banking services and improving 
         customer experiences. We prioritize your privacy and uphold the highest standards of confidentiality.
-        # ---------------------------------------
+        # --------------------
   - type: markdown
     attributes:
       value: |
