@@ -3,7 +3,7 @@ description: Survey
 title: "[Survey Form]: "
 labels: ["Survey"]
 assignees:
-  - pavan0077
+  - 5gucl-idrbt
 body:
   - type: markdown
     attributes:
